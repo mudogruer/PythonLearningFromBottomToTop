@@ -10,5 +10,5 @@ while left_blocks > height:
     height += 1
     left_blocks -= height
 
-
+#it ignores leftover blocks
 print("The height of the pyramid:", height)
